@@ -1,6 +1,6 @@
 # E-ticaret projesi
 
-# Günümüz online alışveriş sistemine dair örnek bir proje
+# Günümüz online alışveriş sistemine dair JavaScript ile dinamikleştirilmiş örnek bir proje 
 
 # Ekran görüntüsü
 
