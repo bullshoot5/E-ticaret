@@ -1,6 +1,6 @@
 # E-ticaret projesi
 
-# Bir satış firmasının online platformu
+# Günümüz online alışveriş sistemine dair örnek bir proje
 
 # Ekran görüntüsü
 
