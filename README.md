@@ -5,4 +5,3 @@
 # Ekran görüntüsü
 
 # ![](commerce.gif)
-# E-ticaret
